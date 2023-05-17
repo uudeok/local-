@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Gugi&family=Hahmlet:wght@500&family=Montserrat:wght@300&family=Wix+Madefor+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gugi&family=Hahmlet:wght@500&family=IBM+Plex+Sans+KR:wght@300&family=Jua&family=Montserrat:wght@300&family=Wix+Madefor+Display&display=swap");
+
+.layout {
+  width: 1200px;
+  height: 2700px;
+  background-color: whitesmoke;
+  margin: 0 auto;
+}
+
+.header {
+  width: 100%;
+  height: 180px;
+  border: 1px solid black;
+  margin: 0 auto;
+  display: flex;
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+.title {
+  width: 100px;
+  height: 120px;
+  font-family: "Hahmlet", serif;
+  font-size: 40px;
+  text-align: center;
+  border: 1px dotted black;
+  position: relative;
+  left: 30px;
+  top: 20px;
+}
+
+.category {
+  width: 60%;
+  height: 20%;
+
+  position: relative;
+  left: 180px;
+  top: 110px;
+}
+
+.pageone {
+  width: 100%;
+  height: 100%;
+  padding-right: 30px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-family: "IBM Plex Sans KR", sans-serif;
+}
+
+.pagetwo {
+  width: 100%;
+  height: 100%;
+  padding-right: 30px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-family: "IBM Plex Sans KR", sans-serif;
+}
+
+.pagethree {
+  width: 100%;
+  height: 100%;
+  padding-right: 30px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-family: "IBM Plex Sans KR", sans-serif;
+}

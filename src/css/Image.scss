@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Gugi&family=Hahmlet:wght@500&family=Jua&family=Montserrat:wght@300&family=Wix+Madefor+Display&display=swap");
+
+.Image-wrap {
+  width: 100vw;
+  height: 20%;
+  padding-top: 50px;
+}
+
+.Img-inner {
+  width: 370px;
+  height: 500px;
+  display: flex;
+  position: relative;
+  left: 440px;
+
+  top: 10px;
+  overflow: hidden;
+}
+
+.btn {
+  width: 70px;
+  height: 40px;
+  font-size: 35px;
+  position: relative;
+  left: 600px;
+  bottom: 15px;
+  border: none;
+  border-radius: 15px;
+  background-color: azure;
+  font-family: "Jua", sans-serif;
+}
+
+.active {
+  transition: 0.5s;
+  margin-left: -420px;
+}
